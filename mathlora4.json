@@ -1,0 +1,802 @@
+[
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/2",
+        "input": "6/12",
+        "output": "The fraction 6/12 is equivalent to 1/2 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 6 is a common factor of both the numerator and the denominator of 6/12. When we divide both by 6, we get 6/6 = 1 and 12/6 = 2, so the simplified fraction is 1/2."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/4",
+        "input": "8/32",
+        "output": "The fraction 8/32 is equivalent to 1/4 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 8 is a common factor of both the numerator and the denominator of 8/32. When we divide both by 8, we get 8/8 = 1 and 32/8 = 4, so the simplified fraction is 1/4."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/2",
+        "input": "5/10",
+        "output": "The fraction 5/10 is equivalent to 1/2 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 5 is a common factor of both the numerator and the denominator of 5/10. When we divide both by 5, we get 5/5 = 1 and 10/5 = 2, so the simplified fraction is 1/2."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/2",
+        "input": "9/18",
+        "output": "The fraction 9/18 is equivalent to 1/2 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 9 is a common factor of both the numerator and the denominator of 9/18. When we divide both by 9, we get 9/9 = 1 and 18/9 = 2, so the simplified fraction is 1/2."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/4",
+        "input": "2/8",
+        "output": "The fraction 2/8 is equivalent to 1/4 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 2 is a common factor of both the numerator and the denominator of 2/8. When we divide both by 2, we get 2/2 = 1 and 8/2 = 4, so the simplified fraction is 1/4."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/4",
+        "input": "3/12",
+        "output": "The fraction 3/12 is equivalent to 1/4 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a commonfactor. In this case, 3 is a common factor of both the numerator and the denominator of 3/12. When we divide both by 3, we get 3/3 = 1 and 12/3 = 4, so the simplified fraction is 1/4."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/2",
+        "input": "7/14",
+        "output": "The fraction 7/14 is equivalent to 1/2 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 7 is a common factor of both the numerator and the denominator of 7/14. When we divide both by 7, we get 7/7 = 1 and 14/7 = 2, so the simplified fraction is 1/2."
+    },
+    {
+        "instruction": "Explain why the following fraction is equivalent to 1/2",
+        "input": "10/20",
+        "output": "The fraction 10/20 is equivalent to 1/2 because both fractions represent the same value. A fraction can be simplified by dividing both the numerator and the denominator by a common factor. In this case, 10 is a common factor of both the numerator and the denominator of 10/20. When we divide both by 10, we get 10/10 = 1 and 20/10 = 2, so the simplified fraction is 1/2."
+    },
+    {
+        "instruction": "What is the sum of 2 and 2?",
+        "input": "2+2",
+        "output": "The sum of 2 and 2 is 4."
+    },
+    {
+        "instruction": "If you have 3 apples and you get 5 more, how many apples do you have in total?",
+        "input": "3+5",
+        "output": "If you have 3 apples and you get 5 more, you will have 8 apples in total."
+    },
+    {
+        "instruction": "What do you get when you add 7 to 1?",
+        "input": "7+1",
+        "output": "When you add 7 to 1, you get 8."
+    },
+    {
+        "instruction": "What is the total of 6 and 2?",
+        "input": "6+2",
+        "output": "The total of 6 and 2 is 8."
+    },
+    {
+        "instruction": "If you have 4 cookies and your friend gives you 4 more, how many cookies do you have now?",
+        "input": "4+4",
+        "output": "If you have 4 cookies and your friend gives you 4 more, you will have 8 cookies."
+    },
+    {
+        "instruction": "What is the result of adding 5 and 3 together?",
+        "input": "5+3",
+        "output": "The result of adding 5 and 3 together is 8."
+    },
+    {
+        "instruction": "What is the result when you add 1 to 1?",
+        "input": "1+1",
+        "output": "When you add 1 to 1, the result is 2."
+    },
+    {
+        "instruction": "If you have 2 candies and someone gives you 3 more, how many candies do you have now?",
+        "input": "2+3",
+        "output": "If you have 2 candies and someone gives you 3 more, you will have 5 candies."
+    },
+    {
+        "instruction": "What is the total when you add 4 and 5 together?",
+        "input": "4+5",
+        "output": "The total when you add 4 and 5 together is 9."
+    },
+    {
+        "instruction": "What do you get when you add 3 to 4?",
+        "input": "3+4",
+        "output": "When you add 3 to 4, you get 7."
+    },
+    {
+        "instruction": "What is the sum of 6 and 3?",
+        "input": "6+3",
+        "output": "The sum of 6 and 3 is 9."
+    },
+    {
+        "instruction": "If you have 5 books and you buy 4 more, how many books do you have in total?",
+        "input": "5+4",
+        "output": "If you have 5 books and you buy 4 more, you will have 9 books in total."
+    },
+    {
+        "instruction": "What is the result of adding 7 and 2 together?",
+        "input": "7+2",
+        "output": "The result of adding 7 and 2 together is 9."
+    },
+    {
+        "instruction": "Solve the following equation: 2 + 3 - 1",
+        "input": "",
+        "output": "To solve the equation, we first perform the addition operation. So, 2 + 3 equals 5. Then, we subtract 1 from 5, which gives us 4."
+    },
+    {
+        "instruction": "What is the result of the following calculation: 5 + 4 - 3?",
+        "input": "",
+        "output": "To solve the calculation, we first perform the addition operation. So, 5 + 4 equals 9. Then, we subtract 3 from 9, which gives us 6."
+    },
+    {
+        "instruction": "Calculate the following: 7 + 2 - 4",
+        "input": "",
+        "output": "To calculate the expression, we first perform the addition operation. So, 7 + 2 equals 9. Then, we subtract 4 from 9, which gives us 5."
+    },
+    {
+        "instruction": "What is the outcome of the following operation: 6 + 3 - 2?",
+        "input": "",
+        "output": "To find the outcome of the operation, we first perform the addition operation. So, 6 + 3 equals 9. Then, we subtract 2 from 9, which gives us 7."
+    },
+    {
+        "instruction": "Determine the result of the following operation: 8 + 2 - 5",
+        "input": "",
+        "output": "To determine the result of the operation, we first perform the addition operation. So, 8 + 2 equals 10. Then, we subtract 5 from 10, which gives us 5."
+    },
+    {
+        "instruction": "Compute the following: 4 + 5 - 3",
+        "input": "",
+        "output": "To compute the expression, we first perform the addition operation. So, 4 + 5 equals 9. Then, we subtract 3 from 9, which gives us 6."
+    },
+    {
+        "instruction": "Evaluate the following expression: 3 + 6 - 4",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the addition operation. So, 3 + 6 equals 9. Then, we subtract 4 from 9, which gives us 5."
+    },
+    {
+        "instruction": "Solve the following equation: 2 + 3 - 1",
+        "input": "",
+        "output": "To solve the equation, we first perform the addition operation. So, 2 + 3 equals 5. Then, we subtract 1 from 5, which gives us 4."
+    },
+    {
+        "instruction": "What is the result of the following calculation: 5 + 4 - 3?",
+        "input": "",
+        "output": "To solve the calculation, we first perform the addition operation. So, 5 + 4 equals 9. Then, we subtract 3 from 9, which gives us 6."
+    },
+    {
+        "instruction": "Calculate the following: 7 + 2 - 4",
+        "input": "",
+        "output": "To calculate the expression, we first perform the addition operation. So, 7 + 2 equals 9. Then, we subtract 4 from 9, which gives us 5."
+    },
+    {
+        "instruction": "What is the outcome of the following operation: 6 + 3 - 2?",
+        "input": "",
+        "output": "To find the outcome of the operation, we first perform the addition operation. So, 6 + 3 equals 9. Then, we subtract 2 from 9, which gives us 7."
+    },
+    {
+        "instruction": "Determine the result of the following operation: 8 + 2 - 5",
+        "input": "",
+        "output": "To determine the result of the operation, we first perform the addition operation. So, 8 + 2 equals 10. Then, we subtract 5 from 10, which gives us 5."
+    },
+    {
+        "instruction": "Compute the following: 4 + 5 - 3",
+        "input": "",
+        "output": "To compute the expression, we first perform the addition operation. So, 4 + 5 equals 9. Then, we subtract 3 from 9, which gives us 6."
+    },
+    {
+        "instruction": "Evaluate the following expression: 3 + 6 - 4",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the addition operation. So, 3 + 6 equals 9. Then, we subtract 4 from 9, which gives us 5."
+    },
+    {
+        "instruction": "Calculate the following: 2 * 2 * 2 * 2 - 1",
+        "input": "",
+        "output": "To calculate the expression, we first perform the multiplication operations. So, 2 * 2 equals 4. Then, 4 * 2 equals 8. Next, 8 * 2 equals 16. Finally, we subtract 1 from 16, which gives us 15."
+    },
+    {
+        "instruction": "What is the result of the following calculation: 3 * 3 * 3 * 3 - 2?",
+        "input": "",
+        "output": "To solve the calculation, we first perform the multiplication operations. So, 3 * 3 equals 9. Then, 9 * 3 equals 27. Next, 27 * 3 equals 81. Finally, we subtract 2 from 81, which gives us 79."
+    },
+    {
+        "instruction": "Calculate the following: 4 * 4 * 4 - 3",
+        "input": "",
+        "output": "To calculate the expression, we first perform the multiplication operations. So, 4 * 4 equals 16. Then, 16 * 4 equals 64. Finally, we subtract 3 from 64, which gives us 61."
+    },
+    {
+        "instruction": "What is the outcome of the following operation: 5 * 5 - 4?",
+        "input": "",
+        "output": "To find the outcome of the operation, we first perform the multiplication operation. So, 5 * 5 equals 25. Then, we subtract 4 from 25, which gives us 21."
+    },
+    {
+        "instruction": "Determine the result of the following operation: 6 * 6 - 5",
+        "input": "",
+        "output": "To determine the result of the operation, we first perform the multiplication operation. So, 6 * 6 equals 36. Then, we subtract 5 from 36, which gives us 31."
+    },
+    {
+        "instruction": "Compute the following: 7 * 7 - 6",
+        "input": "",
+        "output": "To compute the expression, we first perform the multiplication operation. So, 7 * 7 equals 49. Then, we subtract 6 from 49, which gives us 43."
+    },
+    {
+        "instruction": "Evaluate the following expression: 8 * 8 - 7",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the multiplication operation. So, 8 * 8 equals 64. Then, we subtract 7 from 64, which gives us 57."
+    },
+    {
+        "instruction": "Solve for x in the equation: x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we subtract 3 from both sides of the equation. So, x = 7 - 3, which gives us x = 4."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 2x = 8",
+        "input": "",
+        "output": "To find the value of x, we divide both sides of the equation by 2. So, x = 8 / 2, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 5x - 3 = 7",
+        "input": "",
+        "output": "To determine the value of x, we first add 3 to both sides of the equation, getting 5x = 10. Then, we divide both sides by 5, so x = 10 / 5, which gives us x = 2."
+    },
+    {
+        "instruction": "What is the value of x in the equation: 3x + 2 = 11?",
+        "input": "",
+        "output": "To find the value of x, we first subtract 2 from both sides of the equation, getting 3x = 9. Then, we divide both sides by 3, so x = 9 / 3, which gives us x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x - 2 = 10",
+        "input": "",
+        "output": "To solve for x, we first add 2 to both sides of the equation, getting 4x = 12. Then, we divide both sides by 4, so x = 12 / 4, which gives us x = 3."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 2x + 3 = 9",
+        "input": "",
+        "output": "To find the value of x, we first subtract 3 from both sides of the equation, getting 2x = 6. Then, we divide both sides by 2, so x = 6 / 2, which gives us x = 3."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 3x - 2 = 7",
+        "input": "",
+        "output": "To determine the value of x, we first add 2 to both sides of the equation, getting 3x = 9. Then, we divide both sides by 3, so x = 9 / 3, which gives us x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 2 = 18",
+        "input": "",
+        "output": "To solve for x, we first subtract 2 from both sides of the equation, getting 4x = 16. Then, we divide both sides by 4, so x = 16 / 4, which gives us x = 4."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 5x - 3 = 17",
+        "input": "",
+        "output": "To find the value of x, we first add 3 to both sides of the equation, getting 5x = 20. Then, we divide both sides by 5, so x = 20 / 5, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 3x + 5 = 20",
+        "input": "",
+        "output": "To determine the value of x, we first subtract 5 from both sides of the equation, getting 3x = 15. Then, we divide both sides by 3, so x = 15 / 3, which gives us x = 5."
+    },
+    {
+        "instruction": "What is the value of x in the equation: 2x - 4 = 10?",
+        "input": "",
+        "output": "To find the value of x, we first add 4 to both sides of the equation, getting 2x = 14. Then, we divide both sides by 2, so x = 14 / 2, which gives us x = 7."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 2 = 26",
+        "input": "",
+        "output": "To solve for x, we first subtract 2 from both sides of the equation, getting 6x = 24. Then, we divide both sides by 6, so x = 24 / 6, which gives us x = 4."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 7x - 3 = 25",
+        "input": "",
+        "output": "To find the value of x, we first add 3 to both sides of the equation, getting 7x = 28. Then, we divide both sides by 7, so x = 28 / 7, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 8x + 4 = 36",
+        "input": "",
+        "output": "To determine the value of x, we first subtract 4 from both sides of the equation, getting 8x = 32. Then, we divide both sides by 8, so x = 32 / 8, which gives us x = 4."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x^2 + 3x - 2 = 0",
+        "input": "",
+        "output": "To solve for x, we can use the quadratic formula. The solutions are x = -2 and x = 1/2."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 3x^2 - 4x + 1 = 0",
+        "input": "",
+        "output": "To find the value of x, we can use the quadratic formula. The solutions are x = 1/3 and x = 1."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 4x^2 - 5x + 1 = 0",
+        "input": "",
+        "output": "To determine the value of x, we can use the quadratic formula. The solutions are x = 1/4 and x = 1."
+    },
+    {
+        "instruction": "What is the value of x in the equation: 5x^2 - 6x + 1 = 0?",
+        "input": "",
+        "output": "To find the value of x, we can use the quadratic formula. The solutions are x = 1/5 and x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x^2 - 7x + 1 = 0",
+        "input": "",
+        "output": "To solve for x, we can use the quadratic formula. The solutions are x = 1/6 and x = 1."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 7x^2 - 8x + 1 = 0",
+        "input": "",
+        "output": "To find the value of x, we can use the quadratic formula. The solutions are x = 1/7 and x = 1."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 8x^2 - 9x + 1 = 0",
+        "input": "",
+        "output": "To determine the value of x, we can use the quadratic formula. The solutions are x = 1/8 and x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x^3 - 3x^2 + x - 1 = 0",
+        "input": "",
+        "output": "This is a cubic equation. We can use the cubic formula or factoring to solve it. The real solution is x = 1.3982. The complex solutions are x = 0.05092 - 0.59584i and x = 0.05092 + 0.59584i."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 3x^3 - 4x^2 + 2x - 1 = 0",
+        "input": "",
+        "output": "This is a cubic equation. We can use the cubic formula or factoring to solve it. The real solution is x = 1. The complex solutions are x = 1/3 - i and x = 1/3 + i."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 4x^3 - 5x^2 + 3x - 2 = 0",
+        "input": "",
+        "output": "This is a cubic equation. We can use the cubic formula or factoring to solve it. The real solution is x = 1. The complex solutions are x = 1/4 - sqrt(3)/4i and x = 1/4 + sqrt(3)/4i."
+    },
+    {
+        "instruction": "What is the value of x in the equation: 5x^3 - 6x^2 + 4x - 3 = 0?",
+        "input": "",
+        "output": "This is a cubic equation. We can use the cubic formula or factoring to solve it. The real solution is x = 1. The complex solutions are x = 1/5 - sqrt(19)/5i and x = 1/5 + sqrt(19)/5i."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x^3 - 7x^2 + 5x - 4 = 0",
+        "input": "",
+        "output": "This is a cubic equation. We can use the cubic formula or factoring to solve it. The real solution is x = 1. The complex solutions are x = 1/6 - sqrt(23)/6i and x = 1/6 + sqrt(23)/6i."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 7x^3 - 8x^2 + 6x - 5 = 0",
+        "input": "",
+        "output": "This is a cubic equation. We can use the cubic formula or factoring to solve it. The real solution is x = 1. The complex solutions are x = 1/7 - sqrt(27)/7i and x = 1/7 + sqrt(27)/7i."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 3 from both sides of the equation to get 2x = 7 - 3, which simplifies to 2x = 4. Then, we divide both sides of the equation by 2 to get x = 4 / 2, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 3x - 4 = 5",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 4 to both sides of the equation to get 3x = 5 + 4, which simplifies to 3x = 9. Then, we divide both sides of the equation by 3 to get x = 9 / 3, which simplifies to x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 5 = 9",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 5 from both sides of the equation to get 4x = 9 - 5, which simplifies to 4x = 4. Then, we divide both sides of the equation by 4 to get x = 4 / 4, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 5x - 6 = 4",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 6 to both sides of the equation to get 5x = 4 + 6, which simplifies to 5x = 10. Then, we divide both sides of the equation by 5 to get x = 10 / 5, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 7 = 13",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 7 from both sides of the equation to get 6x = 13 - 7, which simplifies to 6x = 6. Then, we divide both sides of the equation by 6 to get x = 6 / 6, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 7x - 8 = 6",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 8 to both sides of the equation to get 7x = 6 + 8, which simplifies to 7x = 14. Then, we divide both sides of the equation by 7 to get x = 14 / 7, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 3 from both sides of the equation to get 2x = 7 - 3, which simplifies to 2x = 4. Then, we divide both sides of the equation by 2 to get x = 4 / 2, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 3x - 4 = 5",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 4 to both sides of the equation to get 3x = 5 + 4, which simplifies to 3x = 9. Then, we divide both sides of the equation by 3 to get x = 9 / 3, which simplifies to x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 5 = 9",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 5 from both sides of the equation to get 4x = 9 - 5, which simplifies to 4x = 4. Then, we divide both sides of the equation by 4 to get x = 4 / 4, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 5x - 6 = 4",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 6 to both sides of the equation to get 5x = 4 + 6, which simplifies to 5x = 10. Then, we divide both sides of the equation by 5 to get x = 10 / 5, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 7 = 13",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 7 from both sides of the equation to get 6x = 13 - 7, which simplifies to 6x = 6. Then, we divide both sides of the equation by 6 to get x = 6 / 6, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 7x - 8 = 6",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 8 to both sides of the equation to get 7x = 6 + 8, which simplifies to 7x = 14. Then, we divide both sides of the equation by 7 to get x = 14 / 7, which simplifies to x = 2."
+    }
+    {
+        "instruction": "Solve for x in the equation: 2x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 3 from both sides of the equation to get 2x = 7 - 3, which simplifies to 2x = 4. Then, we divide both sides of the equation by 2 to get x = 4 / 2, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 3x - 4 = 5",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 4 to both sides of the equation to get 3x = 5 + 4, which simplifies to 3x = 9. Then, we divide both sides of the equation by 3 to get x = 9 / 3, which simplifies to x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 5 = 9",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 5 from both sides of the equation to get 4x = 9 - 5, which simplifies to 4x = 4. Then, we divide both sides of the equation by 4 to get x = 4 / 4, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 5x - 6 = 4",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 6 to both sides of the equation to get 5x = 4 + 6, which simplifies to 5x = 10. Then, we divide both sides of the equation by 5 to get x = 10 / 5, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 7 = 13",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 7 from both sides of the equation to get 6x = 13 - 7, which simplifies to 6x = 6. Then, we divide both sides of the equation by 6 to get x = 6 / 6, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 7x - 8 = 6",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 8 to both sides of the equation to get 7x = 6 + 8, which simplifies to 7x = 14. Then, we divide both sides of the equation by 7 to get x = 14 / 7, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 3 from both sides of the equation to get 2x = 7 - 3, which simplifies to 2x = 4. Then, we divide both sides of the equation by 2 to get x = 4 / 2, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 3x - 4 = 5",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 4 to both sides of the equation to get 3x = 5 + 4, which simplifies to 3x = 9. Then, we divide both sides of the equation by 3 to get x = 9 / 3, which simplifies to x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 5 = 9",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 5 from both sides of the equation to get 4x = 9 - 5, which simplifies to 4x = 4. Then, we divide both sides of the equation by 4 to get x = 4 / 4, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 5x - 6 = 4",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 6 to both sides of the equation to get 5x = 4 + 6, which simplifies to 5x = 10. Then, we divide both sides of the equation by 5 to get x = 10 / 5, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 7 = 13",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 7 from both sides of the equation to get 6x = 13 - 7, which simplifies to 6x = 6. Then, we divide both sides of the equation by 6 to get x = 6 / 6, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 7x - 8 = 6",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 8 to both sides of the equation to get 7x = 6 + 8, which simplifies to 7x = 14. Then, we divide both sides of the equation by 7 to get x = 14 / 7, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 3 from both sides of the equation to get 2x = 7 - 3, which simplifies to 2x = 4. Then, we divide both sides of the equation by 2 to get x = 4 / 2, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 3x - 4 = 5",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 4 to both sides of the equation to get 3x = 5 + 4, which simplifies to 3x = 9. Then, we divide both sides of the equation by 3 to get x = 9 / 3, which simplifies to x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 5 = 9",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 5 from both sides of the equation to get 4x = 9 - 5, which simplifies to 4x = 4. Then, we divide both sides of the equation by 4 to get x = 4 / 4, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 5x - 6 = 4",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 6 to both sides of the equation to get 5x = 4 + 6, which simplifies to 5x = 10. Then, we divide both sides of the equation by 5 to get x = 10 / 5, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 7 = 13",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 7 from both sides of the equation to get 6x = 13 - 7, which simplifies to 6x = 6. Then, we divide both sides of the equation by 6 to get x = 6 / 6, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 7x - 8 = 6",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 8 to both sides of the equation to get 7x = 6 + 8, which simplifies to 7x = 14. Then, we divide both sides of the equation by 7 to get x = 14 / 7, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 3 from both sides of the equation to get 2x = 7 - 3, which simplifies to 2x = 4. Then, we divide both sides of the equation by 2 to get x = 4 / 2, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 3x - 4 = 5",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 4 to both sides of the equation to get 3x = 5 + 4, which simplifies to 3x = 9. Then, we divide both sides of the equation by 3 to get x = 9 / 3, which simplifies to x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 5 = 9",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 5 from both sides of the equation to get 4x = 9 - 5, which simplifies to 4x = 4. Then, we divide both sides of the equation by 4 to get x = 4 / 4, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 5x - 6 = 4",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 6 to both sides of the equation to get 5x = 4 + 6, which simplifies to 5x = 10. Then, we divide both sides of the equation by 5 to get x = 10 / 5, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 7 = 13",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by subtracting 7 from both sides of the equation to get 6x = 13 - 7, which simplifies to 6x = 6. Then, we divide both sides of the equation by 6 to get x = 6 / 6, which simplifies to x = 1."
+    },
+    {
+        "instruction": "Solve for x in the equation: 7x - 8 = 6",
+        "input": "",
+        "output": "To solve for x, we need to isolate x on one side of the equation. We can start by adding 8 to both sides of the equation to get 7x = 6 + 8, which simplifies to 7x = 14. Then, we divide both sides of the equation by 7 to get x = 14 / 7, which simplifies to x = 2."
+    },
+    {
+        "instruction": "Evaluate the following expression, using the mathematical order of operations (BIDMAS/BODMAS): 3 + 6 - 4",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the addition operation. So, 3 + 6 equals 9. Then, we subtract 4 from 9, which gives us 5."
+    },
+    {
+        "instruction": "Compute the following operation, ensuring to respect the priority of multiplication over subtraction: 2 * 2 * 2 * 2 - 1",
+        "input": "",
+        "output": "To calculate the expression, we first perform the multiplication operations. So, 2 * 2 equals 4. Then, 4 * 2 equals 8. Next, 8 * 2 equals 16. Finally, we subtract 1 from 16, which gives us 15."
+    },
+    {
+        "instruction": "What would be the result of the following calculation if multiplication is performed prior to subtraction: 3 * 3 * 3 * 3 - 2?",
+        "input": "",
+        "output": "To solve the calculation, we first perform the multiplication operations. So, 3 * 3 equals 9. Then, 9 * 3 equals 27. Next, 27 * 3 equals 81. Finally, we subtract 2 from 81, which gives us 79."
+    },
+    {
+        "instruction": "Perform the following mathematical operation, with an emphasis on the order of multiplication before subtraction: 4 * 4 * 4 - 3",
+        "input": "",
+        "output": "To calculate the expression, we first perform the multiplication operations. So, 4 * 4 equals 16. Then, 16 * 4 equals 64. Finally, we subtract 3 from 64, which gives us 61."
+    },
+    {
+        "instruction": "Determine the result of the following operation, adhering to the operational priority rule where multiplication precedes subtraction: 5 * 5 - 4?",
+        "input": "",
+        "output": "To find the outcome of the operation, we first perform the multiplication operation. So, 5 * 5 equals 25. Then, we subtract 4 from 25, which gives us 21."
+    },
+    {
+        "instruction": "Perform the given operation, being sure to observe the correct order of operations (multiplication before subtraction): 6 * 6 - 5",
+        "input": "",
+        "output": "To determine the result of the operation, we first perform the multiplication operation. So, 6 * 6 equals 36. Then, we subtract 5 from 36, which gives us 31."
+    },
+    {
+        "instruction": "Compute the mathematical expression below, adhering strictly to BIDMAS/BODMAS rules: 7 * 7 - 6",
+        "input": "",
+        "output": "To compute the expression, we first perform the multiplication operation. So, 7 * 7 equals 49. Then, we subtract 6 from 49, which gives us 43."
+    },
+    {
+        "instruction": "Applying the correct order of operations, evaluate the following expression: 8 * 8 - 7",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the multiplication operation. So, 8 * 8 equals 64. Then, we subtract 7 from 64, which gives us 57."
+    },
+    {
+        "instruction": "Using algebraic manipulation, resolve for 'x' in the presented equation: x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we subtract 3 from both sides of the equation. So, x = 7 - 3, which gives us x = 4."
+    },
+    {
+        "instruction": "Employ algebraic techniques and find 'x' in the ensuing equation: 2x = 8",
+        "input": "",
+        "output": "To find the value of x, we divide both sides of the equation by 2. So, x = 8 / 2, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 5x - 3 = 7. You may rearrange the equation if necessary.",
+        "input": "",
+        "output": "To determine the value of x, we first add 3 to both sides of the equation, getting 5x = 10. Then, we divide both sides by 5, so x = 10 / 5, which gives us x = 2."
+    },
+    {
+        "instruction": "In the equation: 3x + 2 = 11, what is x, assuming linear properties hold true?",
+        "input": "",
+        "output": "To find the value of x, we first subtract 2 from both sides of the equation, getting 3x = 9. Then, we divide both sides by 3, so x = 9 / 3, which gives us x = 3."
+    },
+    {
+        "instruction": "Utilize algebraic manipulations to solve for x in the equation: 4x - 2 = 10",
+        "input": "",
+        "output": "To solve for x, we first add 2 to both sides of the equation, getting 4x = 12. Then, we divide both sides by 4, so x = 12 / 4, which gives us x = 3."
+    },
+    {
+        "instruction": "Incorporate algebraic reasoning to find x in the equation: 2x + 3 = 9",
+        "input": "",
+        "output": "To find the value of x, we first subtract 3 from both sides of the equation, getting 2x = 6. Then, we divide both sides by 2, so x = 6 / 2, which gives us x = 3."
+    },
+    {
+        "instruction": "Unearth the value of x in the equation: 3x - 2 = 7, using necessary algebraic rearrangements.",
+        "input": "",
+        "output": "To find the value of x, we first add 2 to both sides of the equation, getting 3x = 9. Then, we divide both sides by 3, so x = 9 / 3, which gives us x = 3."
+    },
+    {
+        "instruction": "Deploy algebraic methods to find x in the equation: 4x + 2 = 18",
+        "input": "",
+        "output": "To solve for x, we first subtract 2 from both sides of the equation, getting 4x = 16. Then, we divide both sides by 4, so x = 16 / 4, which gives us x = 4."
+    },
+    {
+        "instruction": "Using systematic algebraic techniques, find x in the equation: 5x - 3 = 17",
+        "input": "",
+        "output": "To find the value of x, we first add 3 to both sides of the equation, getting 5x = 20. Then, we divide both sides by 5, so x = 20 / 5, which gives us x = 4."
+    },
+    {
+        "instruction": "Assuming the standard algebraic order of operations, determine the value of x in the equation: 3x + 5 = 20",
+        "input": "",
+        "output": "To determine the value of x, we first subtract 5 from both sides of the equation, getting 3x = 15. Then, we divide both sides by 3, so x = 15 / 3, which gives us x = 5."
+    },
+    {
+        "instruction": "In the equation: 2x - 4 = 10, can you identify the value of x using algebraic operations?",
+        "input": "",
+        "output": "To find the value of x, we first add 4 to both sides of the equation, getting 2x = 14. Then, we divide both sides by 2, so x = 14 / 2, which gives us x = 7."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 2 = 26 by applying algebraic properties.",
+        "input": "",
+        "output": "To solve for x, we first subtract 2 from both sides of the equation, getting 6x = 24. Then, we divide both sides by 6, so x = 24 / 6, which gives us x = 4."
+    },
+    {
+        "instruction": "In the quadratic equation: 2x^2 + 3x - 2 = 0, find x using the quadratic formula.",
+        "input": "",
+        "output": "To solve for x, we can use the quadratic formula. The solutions are x = -2 and x = 1/2."
+    },
+    {
+        "instruction": "In the quadratic equation: 3x^2 - 4x + 1 = 0, find x using appropriate quadratic techniques.",
+        "input": "",
+        "output": "To find the value of x, we can use the quadratic formula. The solutions are x = 1/3 and x = 1."
+    },
+    {
+        "instruction": "Utilizing the quadratic formula, determine x in the equation: 4x^2 - 5x + 1 = 0",
+        "input": "",
+        "output": "To determine the value of x, we can use the quadratic formula. The solutions are x = 1/4 and x = 1."
+    },
+    {
+        "instruction": "In the quadratic equation: 5x^2 - 6x + 1 = 0, what is x, given that quadratic properties hold?",
+        "input": "",
+        "output": "To find the value of x, we can use the quadratic formula. The solutions are x = 1/5 and x = 1."
+    },
+    {
+        "instruction": "Find x in the following equation, employing algebraic principles: 2x = 8",
+        "input": "",
+        "output": "To find the value of x, we divide both sides of the equation by 2. So, x = 8 / 2, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine x in the given equation by correctly applying algebraic manipulation: 5x - 3 = 7",
+        "input": "",
+        "output": "To determine the value of x, we first add 3 to both sides of the equation, getting 5x = 10. Then, we divide both sides by 5, so x = 10 / 5, which gives us x = 2."
+    },
+    {
+        "instruction": "Solve for x in the quadratic equation, utilizing the quadratic formula if necessary: 2x^2 + 3x - 2 = 0",
+        "input": "",
+        "output": "To solve for x, we can use the quadratic formula. The solutions are x = -2 and x = 1/2."
+    },
+    {
+        "instruction": "Deduce the roots of the given quadratic equation, making use of the quadratic formula: 4x^2 - 5x + 1 = 0",
+        "input": "",
+        "output": "To determine the value of x, we can use the quadratic formula. The solutions are x = 1/4 and x = 1."
+    },
+    {
+        "instruction": "What is the outcome of the following operation: 6 + 3 - 2?",
+        "input": "",
+        "output": "To find the outcome of the operation, we first perform the addition operation. So, 6 + 3 equals 9. Then, we subtract 2 from 9, which gives us 7."
+    },
+    {
+        "instruction": "Determine the result of the following operation: 8 + 2 - 5",
+        "input": "",
+        "output": "To determine the result of the operation, we first perform the addition operation. So, 8 + 2 equals 10. Then, we subtract 5 from 10, which gives us 5."
+    },
+    {
+        "instruction": "Compute the following: 4 + 5 - 3",
+        "input": "",
+        "output": "To compute the expression, we first perform the addition operation. So, 4 + 5 equals 9. Then, we subtract 3 from 9, which gives us 6."
+    },
+    {
+        "instruction": "Evaluate the following expression: 3 + 6 - 4",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the addition operation. So, 3 + 6 equals 9. Then, we subtract 4 from 9, which gives us 5."
+    },
+    {
+        "instruction": "Calculate the following: 2 * 2 * 2 * 2 - 1",
+        "input": "",
+        "output": "To calculate the expression, we first perform the multiplication operations. So, 2 * 2 equals 4. Then, 4 * 2 equals 8. Next, 8 * 2 equals 16. Finally, we subtract 1 from 16, which gives us 15."
+    },
+    {
+        "instruction": "What is the result of the following calculation: 3 * 3 * 3 * 3 - 2?",
+        "input": "",
+        "output": "To solve the calculation, we first perform the multiplication operations. So, 3 * 3 equals 9. Then, 9 * 3 equals 27. Next, 27 * 3 equals 81. Finally, we subtract 2 from 81, which gives us 79."
+    },
+    {
+        "instruction": "Calculate the following: 4 * 4 * 4 - 3",
+        "input": "",
+        "output": "To calculate the expression, we first perform the multiplication operations. So, 4 * 4 equals 16. Then, 16 * 4 equals 64. Finally, we subtract 3 from 64, which gives us 61."
+    },
+    {
+        "instruction": "What is the outcome of the following operation: 5 * 5 - 4?",
+        "input": "",
+        "output": "To find the outcome of the operation, we first perform the multiplication operation. So, 5 * 5 equals 25. Then, we subtract 4 from 25, which gives us 21."
+    },
+    {
+        "instruction": "Determine the result of the following operation: 6 * 6 - 5",
+        "input": "",
+        "output": "To determine the result of the operation, we first perform the multiplication operation. So, 6 * 6 equals 36. Then, we subtract 5 from 36, which gives us 31."
+    },
+    {
+        "instruction": "Compute the following: 7 * 7 - 6",
+        "input": "",
+        "output": "To compute the expression, we first perform the multiplication operation. So, 7 * 7 equals 49. Then, we subtract 6 from 49, which gives us 43."
+    },
+    {
+        "instruction": "Evaluate the following expression: 8 * 8 - 7",
+        "input": "",
+        "output": "To evaluate the expression, we first perform the multiplication operation. So, 8 * 8 equals 64. Then, we subtract 7 from 64, which gives us 57."
+    },
+    {
+        "instruction": "Solve for x in the equation: x + 3 = 7",
+        "input": "",
+        "output": "To solve for x, we subtract 3 from both sides of the equation. So, x = 7 - 3, which gives us x = 4."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 2x = 8",
+        "input": "",
+        "output": "To find the value of x, we divide both sides of the equation by 2. So, x = 8 / 2, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 5x - 3 = 7",
+        "input": "",
+        "output": "To determine the value of x, we first add 3 to both sides of the equation, getting 5x = 10. Then, we divide both sides by 5, so x = 10 / 5, which gives us x = 2."
+    },
+    {
+        "instruction": "What is the value of x in the equation: 3x + 2 = 11?",
+        "input": "",
+        "output": "To find the value of x, we first subtract 2 from both sides of the equation, getting 3x = 9. Then, we divide both sides by 3, so x = 9 / 3, which gives us x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x - 2 = 10",
+        "input": "",
+        "output": "To solve for x, we first add 2 to both sides of the equation, getting 4x = 12. Then, we divide both sides by 4, so x = 12 / 4, which gives us x = 3."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 2x + 3 = 9",
+        "input": "",
+        "output": "To find the value of x, we first subtract 3 from both sides of the equation, getting 2x = 6. Then, we divide both sides by 2, so x = 6 / 2, which gives us x = 3."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 3x - 2 = 7",
+        "input": "",
+        "output": "To determine the value of x, we first add 2 to both sides of the equation, getting 3x = 9. Then, we divide both sides by 3, so x = 9 / 3, which gives us x = 3."
+    },
+    {
+        "instruction": "Solve for x in the equation: 4x + 2 = 18",
+        "input": "",
+        "output": "To solve for x, we first subtract 2 from both sides of the equation, getting 4x = 16. Then, we divide both sides by 4, so x = 16 / 4, which gives us x = 4."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 5x - 3 = 17",
+        "input": "",
+        "output": "To find the value of x, we first add 3 to both sides of the equation, getting 5x = 20. Then, we divide both sides by 5, so x = 20 / 5, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 3x + 5 = 20",
+        "input": "",
+        "output": "To determine the value of x, we first subtract 5 from both sides of the equation, getting 3x = 15. Then, we divide both sides by 3, so x = 15 / 3, which gives us x = 5."
+    },
+    {
+        "instruction": "What is the value of x in the equation: 2x - 4 = 10?",
+        "input": "",
+        "output": "To find the value of x, we first add 4 to both sides of the equation, getting 2x = 14. Then, we divide both sides by 2, so x = 14 / 2, which gives us x = 7."
+    },
+    {
+        "instruction": "Solve for x in the equation: 6x + 2 = 26",
+        "input": "",
+        "output": "To solve for x, we first subtract 2 from both sides of the equation, getting 6x = 24. Then, we divide both sides by 6, so x = 24 / 6, which gives us x = 4."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 7x - 3 = 25",
+        "input": "",
+        "output": "To find the value of x, we first add 3 to both sides of the equation, getting 7x = 28. Then, we divide both sides by 7, so x = 28 / 7, which gives us x = 4."
+    },
+    {
+        "instruction": "Determine the value of x in the equation: 8x + 4 = 36",
+        "input": "",
+        "output": "To determine the value of x, we first subtract 4 from both sides of the equation, getting 8x = 32. Then, we divide both sides by 8, so x = 32 / 8, which gives us x = 4."
+    },
+    {
+        "instruction": "Solve for x in the equation: 2x^2 + 3x - 2 = 0",
+        "input": "",
+        "output": "To solve for x, we can use the quadratic formula. The solutions are x = -2 and x = 1/2."
+    },
+    {
+        "instruction": "Find the value of x in the equation: 3x^2 - 4x + 1 = 0",
+        "input": "",
+        "output": "To find the value of x, we can use the quadratic formula. The solutions are x = 1/3 and x = 1."
+    }
+]
