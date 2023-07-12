@@ -308,5 +308,180 @@
         "instruction": "(Chatmode)You’re at a fork in the road in which one direction leads to the City of Lies (where everyone always lies) and the other to the City of Truth (where everyone always tells the truth). There’s a person at the fork who lives in one of the cities, but you’re not sure which one. What question could you ask the person to find out which road leads to the City of Truth?(please break down my request and explain your understanding, also including your thought process)",
         "input": "",
         "output": "The correct question to ask the person at the fork to determine which road leads to the City of Truth is: Which direction do you live?If the person is from the City of Lies, they will lie and point to the road that leads to the City of Truth.If the person is from the City of Truth, they will tell the truth and also point to the road that leads to the City of Truth.By asking this question, their response will directly indicate the correct road leading to the City of Truth."
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
     }
 ]
