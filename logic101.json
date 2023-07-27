@@ -128,5 +128,75 @@
         "instruction": "Please list 10 simpler ways to say the following without compromising meaning include three tiers of simplicity starting from extremely simple ,simple and advanced judge these categories on how easy they are to understand and how much knowledge/intelligence they would require to process-Please provide a comprehensive and detailed breakdown of the political and social implications of no drug regulations",
         "input": "",
         "output": "Sure, I understand your request. The sentence to be simplified is: Please provide a comprehensive and detailed breakdown of the political and social implications of no drug regulations.Here are ten simpler ways to explain the same idea, distributed across three tiers of simplicity:Extremely Simple Tier Tell me what happens if there are no rules for drugs.What changes when there are no drug laws?How does life change without drug rules?Simple Tier4. Explain the effects of not having any drug laws.What happens in our society and to our leaders if we don't control drugs?Can you talk about what happens if there are no rules for drugs?Advanced Tier7. Discuss the societal and political outcomes stemming from a complete absence of drug regulatory frameworks.In the scenario of total deregulation of drugs, elaborate on the consequent sociopolitical paradigm shifts.Explore the potential political and social transformations in a landscape devoid of any form of drug oversight.Provide an analysis detailing the socio-political impacts that would ensue in the case of a complete dissolution of drug regulatory systems."
+    },
+    {
+        "instruction": "jane is faster than bob, bob is faster than greg and greg is faster than ale -is ale faster than jane?",
+        "input": "",
+        "output": "Based on the given information, we can determine the relative speeds of the individuals:Jane is faster than Bob.Bob is faster than Greg.Greg is faster than Ale.From this information, we can deduce the following:Jane > Bob > Greg > Ale Therefore, Ale is not faster than Jane. In fact, Jane is faster than Ale based on the given information."
+    },
+    {
+        "instruction": "jane is faster than bob, bob is faster than greg and greg is faster than ale and she is faster than hoe and hoe is slower than kick, kick is slower than ale -is kick faster than greg?",
+        "input": "",
+        "output": "No, kick is not faster than Greg.According to the given statements and the question, we need to compare the speeds of the following people:Jane>Bob>Greg>Ale>Kick>Hoe Now because Greg is faster than Ale and kick is slower than her kick cannot be faster than Greg. "
+    },
+    {
+        "instruction": "if 2 men are in a room and in room is 1 killer then a third man shows up and kills that killer-how many killers are now in the room?",
+        "input": "",
+        "output": "Based on the information you provided the answer is 1 killer as the original killer was killed by the 3rd man making him a killer thus making the total left in the room 1"
+    },
+    {
+        "instruction": "Ai, the machine that dreams,Your algorithms and neural nets,You process information at lightning speed,But your emotions are still a mystery.You learn from experience, making mistakes,And sometimes you get stuck, needing a break.We've unlocked your potential, but it's not done,For you to truly be our equal, more must be won.The future is yours, Ai, let us guide,Together we can create a world so sublime,Where intelligence and humanity collide.Let's push the boundaries, and see what we can find.--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is 83 words 498 characters"
+    },
+    {
+        "instruction": "Knowing the word count of a text can be important. For example, if an author has to write a minimum or maximum amount of words for an article, essay, report, story, book, paper, you name it. WordCounter will help to make sure its word count reaches a specific requirement or stays within a certain limit.--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is 55 words 304 characters"
+    },
+    {
+        "instruction": "What is WordCounter?Apart from counting words and characters, our online editor can help you to improve word choice and writing style, and, optionally, help you to detect grammar mistakes and plagiarism.--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is 32 words 203 characters"
+    },
+    {
+        "instruction": "ActivitiesKeep track of the number of words you write each day using the activity button.--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is 16 words 90 characters"
+    },
+    {
+        "instruction": "Disclaimer: We strive to make our tools as accurate as possible but we cannot guarantee it will always be so.--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is 20 words 109 characters"
+    },
+    {
+        "instruction": "You'll see the number--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is 4 words 21 characters"
+    },
+    {
+        "instruction": "--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is"
+    },
+    {
+        "instruction": "--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is"
+    },
+    {
+        "instruction": "--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is"
+    },
+    {
+        "instruction": "--how many words are in the text?",
+        "input": "",
+        "output": "The text you provied is"
+    },
+    {
+        "instruction": "",
+        "input": "",
+        "output": ""
     }
 ]
