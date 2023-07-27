@@ -173,30 +173,5 @@
         "instruction": "You'll see the number--how many words are in the text?",
         "input": "",
         "output": "The text you provied is 4 words 21 characters"
-    },
-    {
-        "instruction": "--how many words are in the text?",
-        "input": "",
-        "output": "The text you provied is"
-    },
-    {
-        "instruction": "--how many words are in the text?",
-        "input": "",
-        "output": "The text you provied is"
-    },
-    {
-        "instruction": "--how many words are in the text?",
-        "input": "",
-        "output": "The text you provied is"
-    },
-    {
-        "instruction": "--how many words are in the text?",
-        "input": "",
-        "output": "The text you provied is"
-    },
-    {
-        "instruction": "",
-        "input": "",
-        "output": ""
     }
 ]
